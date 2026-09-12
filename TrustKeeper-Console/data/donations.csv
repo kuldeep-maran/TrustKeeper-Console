@@ -1,0 +1,6 @@
+id,amount,date,description,donorName,contact,fundType
+DON-1001,5000.00,2026-01-15,General Monthly Donation,Ramesh Kumar,9876543210,General Fund
+DON-1002,15000.00,2026-02-10,Renovation Contribution,Anita Sharma,9812345678,Future Renovation Savings
+DON-1003,2500.00,2026-03-01,Festival Support,Suresh Patel,9711223344,General Fund
+DON-1004,500.00,2026-09-11,Test General Donation,Test Donor,9998887776,General Fund
+DON-1005,20000.00,2026-09-12,i am from bhopal,kuldeep maran,7389360453,General Fund
